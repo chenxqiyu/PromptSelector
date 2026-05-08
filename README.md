@@ -6,7 +6,7 @@ th vistor!
 
 
 <img width="1902" height="858" alt="image" src="https://github.com/user-attachments/assets/0ab9f148-a10a-4ef0-879c-0ea9001b0bc7" />
-<img width="1901" height="879" alt="image" src="https://github.com/user-attachments/assets/5bfe524e-d7da-4e79-aeab-b3f60f2ca429" />
+<img width="1901" height="877" alt="image" src="https://github.com/user-attachments/assets/3ebefd34-a720-483d-ab84-a78b0008e171" />
 
 ## Setup
 
